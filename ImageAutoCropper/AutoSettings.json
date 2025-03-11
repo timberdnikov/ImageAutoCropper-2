@@ -1,0 +1,23 @@
+[
+  {
+    "imageDilating": 2,
+    "imageEroding": 2,
+    "smooth": 3,
+    "brightness": 100,
+    "contrast": 0
+  },
+  {
+    "imageDilating": 2,
+    "imageEroding": 2,
+    "smooth": 3,
+    "brightness": 210,
+    "contrast": 0
+  },
+  {
+    "imageDilating": 2,
+    "imageEroding": 0,
+    "smooth": 3,
+    "brightness": 300,
+    "contrast": 300
+  }
+]
